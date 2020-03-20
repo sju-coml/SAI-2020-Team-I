@@ -32,7 +32,8 @@
 파이썬 공부하기로 하신 4분은 이 강좌로 기본문법과 가벼운 응용까지 할 수 있도록 해보시고 빠르게 응용해보면 좋을 것 같습니다.  
 - 김왼손의 미운코딩새끼: 4시간만에 끝내는 파이썬 기초 (전자책 포함) 
   - https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C#description
-
+- 에드윗 모두를 위한 파이썬 코딩 (이것도 좋기는 합니당)
+  - https://www.edwith.org/pythonforeverybody
 ```
 여기는 화이팅했으면 좋겠습니다 화이팅..!
 얼른 끝내고 인공지능 해봅시다..!
