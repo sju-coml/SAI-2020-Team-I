@@ -1,7 +1,6 @@
 # TEAM 2
-<hr>
 
-### Since 2020 3
+#### Since 2020 3
 
 <br>
 
