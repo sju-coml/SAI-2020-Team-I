@@ -30,4 +30,4 @@
 |  물리천문학과  | 19010430 | 유호균 | https://github.com/hawking74 |
 |  컴퓨터공학과  | 19011463 | 이현동 | https://github.com/cmoweg |
 | 데이터사이언스 | 18011724 | 진현영 | https://github.com/dbj2000 |
-| 컴퓨터공학과   | 19010885 | 정주희 | |
+| 컴퓨터공학과   | 19010885 | 정주희 | https://github.com/Jung-JuHui |
