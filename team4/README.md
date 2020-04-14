@@ -40,7 +40,7 @@ kaggle 실습
 
 6주차
 [ 모두의 딥러닝 시즌 1](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) 
-에서 총 14섹션(lec/lab) 중 lec 1~11까지 각자 학습 후,
+에서 총 14섹션(lec/lab) 중 lec 3~11까지 각자 학습 후,
 배운 내용 공유
 
 ### 구성원
