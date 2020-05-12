@@ -76,3 +76,6 @@
 
 **Kim JiSu**
 - [**@wltn09231**](https://github.com/wltn09231)  
+
+**Lee SooJin**
+- [**@rachell7**](https://github.com/rachell7)  
