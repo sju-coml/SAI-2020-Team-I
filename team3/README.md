@@ -57,3 +57,22 @@
  - 이수진 스터디 폴더: 
  - 이유재 스터디 폴더: 
      
+## About the Contributor
+
+**Jang MoonKyung**
+- [**@moonk1212**](https://github.com/moonk1212)   
+
+**Park JeongEun**
+- [**@jeongeun99**](https://github.com/jeongeun99)  
+
+**Son SangWon**
+- [**@templar137**](https://github.com/templar137)  
+
+**Yoon YeJi**
+- [**@yjyg1215**](https://github.com/yjyg1215)  
+
+**Lee YouJae**
+- [**@Lee-you-jae**](https://github.com/Lee-you-jae)  
+
+**Kim JiSu**
+- [**@wltn09231**](https://github.com/wltn09231)  
