@@ -59,7 +59,7 @@
  - 이수진 스터디 폴더: 
  - 이유재 스터디 폴더: 
      
-## About the Contributor
+## 5. About the Contributor
 
 **Jang MoonKyung**
 - [**@moonk1212**](https://github.com/moonk1212)   
