@@ -73,9 +73,6 @@
   - https://github.com/lunaB/AI-Study
 - 왜 tensorflow가 아니라 pytorch인가
   - https://data-newbie.tistory.com/m/425
-```
-화이팅..!
-```
 > Season3 나영채
 <br>
 
@@ -92,10 +89,6 @@
   - https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C#description
 - 에드윗 모두를 위한 파이썬 코딩 (이것도 좋기는 합니당)
   - https://www.edwith.org/pythonforeverybody
-```
-여기는 화이팅했으면 좋겠습니다 화이팅..!
-얼른 끝내고 인공지능 해봅시다..!
-```
 > Season3 나영채
 
 <br>
