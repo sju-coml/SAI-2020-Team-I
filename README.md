@@ -73,14 +73,17 @@
   - https://github.com/lunaB/AI-Study
 - 왜 tensorflow가 아니라 pytorch인가
   - https://data-newbie.tistory.com/m/425
-
+```
+화이팅..!
+```
+> Season3 나영채
 <br>
 
 ### 2nd Semester
 
 <br>  
 
-## 3. I팀 파이썬 공부자료
+## 3. I팀 파이썬 공부방법
 
 ### 1st Semester
 인프런의 4시간 분량의 파이썬 기본문법에 대한 공부자료입니다.  
@@ -93,8 +96,7 @@
 여기는 화이팅했으면 좋겠습니다 화이팅..!
 얼른 끝내고 인공지능 해봅시다..!
 ```
-
-> 친절한 영채씨가 여러분을 응원합니다...!
+> Season3 나영채
 
 <br>
 
