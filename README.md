@@ -50,6 +50,25 @@
 <br>
 
 ### 2nd Semester
+저희 동아리니까! 편하게 재미있게 한학기 합시다! <br>
+화이팅 ! / 와아아아!! / 좋아요! <br>
+아까 불참되신 한분은 팀원분들께서 잘 챙겨주세요!! 구성에 대해서는 팀원끼리 논의해 보세요. <br>
+
+**Book** <br>
+케라스 창시자에게 배우는 딥러닝
+
+<br>
+
+**Conference Call** <br>
+매주 월요일, 밤 11시 <br>
+시험기간 이전 1~2주는 정기 일정에서 제외하며, 이 경우 별도 공지함.
+
+<br>
+
+**Github** <br>
+- Main : [https://github.com/sju-coml/SAI-2020-Team-I](https://github.com/sju-coml/SAI-2020-Team-I)
+- Issue : [https://github.com/sju-coml/SAI-2020-Team-I/issues](https://github.com/sju-coml/SAI-2020-Team-I/issues)
+- Project & Study Management : [https://github.com/sju-coml/SAI-2020-Team-I/projects](https://github.com/sju-coml/SAI-2020-Team-I/projects)
 
 <br>  
   
