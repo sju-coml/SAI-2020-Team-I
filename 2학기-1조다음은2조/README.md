@@ -8,7 +8,7 @@
 
 ## 0. 노션 위치
 
-[1주 다음은 2조](https://www.notion.so/i-group-2-69a67019cae2412c9f84f8c44639bab4)
+[1주 다음은 2조](https://www.notion.so/1-2-69a67019cae2412c9f84f8c44639bab4)
 
 ##  1. 운영규칙 
 - 26일 발표 : 각자 맡아서
