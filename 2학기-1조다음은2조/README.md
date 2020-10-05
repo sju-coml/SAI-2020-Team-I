@@ -12,7 +12,7 @@
 
 ##  1. 운영규칙 
 - 26일 발표 : 각자 맡아서
-
+- 25일 팀 스터디
  
  
 <br>
@@ -36,8 +36,6 @@
 
  
 
-
-
 ## 4. About the Contributor
 
 **Jang MoonKyung**
@@ -45,4 +43,5 @@
 
 **Son SangWon**
 - [**@templar137**](https://github.com/templar137)  
+
 
