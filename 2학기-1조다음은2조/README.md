@@ -45,12 +45,3 @@
 <br>
  
 
-## 4. About the Contributor
-
-**Jang MoonKyung**
-- [**@moonk1212**](https://github.com/moonk1212)   
-
-**Son SangWon**
-- [**@templar137**](https://github.com/templar137)  
-
-
